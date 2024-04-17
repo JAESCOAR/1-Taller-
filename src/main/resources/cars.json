@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "marca":"TOYOTA",
+        "modelo": "GR Supra"
+    },
+    {
+        "id":2,
+        "marca":"CHEVROLET",
+        "modelo": "Camaro ZL1"
+    },
+    {
+        "id":3,
+        "marca":"FERRARI",
+        "modelo": "296 GTB"
+    }
+]
